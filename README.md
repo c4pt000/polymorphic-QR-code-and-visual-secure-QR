@@ -1,7 +1,8 @@
-# working crude design (require node or python http server)
+
+# working crude design (requires node or python http server)
 ```
-wget https://github.com/c4pt000/polymorphic-QR-code-and-visual-secure-QR-code/releases/download/06-24-2024-working-crude-design/QR-CODE-motion.tar.gz
-tar -xvf QR-CODE-motion.tar.gz
+wget https://github.com/c4pt000/polymorphic-QR-code-and-visual-secure-QR-code/releases/download/06-24-2024-working-crude-design/QR-CODES-motion.tar.gz
+tar -xvf QR-CODES-motion.tar.gz
 cd QR-CODES-motion
 npm -g install serve
 serve .
@@ -9,9 +10,8 @@ serve .
 
 http://localhost:3000
 
-
-https://bitnft.io/ordinals/v1/inscriptions/d13ca94715b8daad007059e4d37ad431372a470f8c5e66bdf531ba32557fb049i0/content
 ```
+
 
 
 https://github.com/c4pt000/polymorphic-QR-code-and-visual-secure-QR-code
